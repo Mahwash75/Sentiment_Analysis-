@@ -1,4 +1,4 @@
-Here’s a **minimal, clean `README.md`** version you can use — short, clear, and recruiter/interviewer-friendly:
+
 
 ---
 
@@ -21,7 +21,9 @@ Classify financial news-related tweets as **Bullish 🟢**, **Bearish 🔴**, or
 
 ```bash
 # Clone repo
-git clone https://github.com/your-username/financial-sentiment-distilbert.git
+git clone https://github.com/Mahwash75/Sentiment_Analysis-/financial-sentiment-distilbert.git
+
+
 cd financial-sentiment-distilbert
 
 # Install dependencies
